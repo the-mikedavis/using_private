@@ -1,0 +1,3 @@
+%{
+  "defmodulep": {:git, "https://github.com/josevalim/defmodulep.git", "9d63bd444ca1cd83aed8b5e17fac515cd281baf2", []},
+}
